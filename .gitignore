@@ -71,3 +71,6 @@ StyleCopReport.xml
 *.vssscc
 *.vspx
 *.vsxproj
+
+appsettings.json
+appsettings.Development.json
